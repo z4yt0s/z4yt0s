@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-<img src="./img/kali.png" style="display:inline-block; margin:5px;">
-<img src="./img/kali.png" style="display:inline-block; margin:5px;">
-<img src="./img/kali.png" style="display:inline-block; margin:5px;">
+<img src="./Kali-Dark-Definitive.png" style="display:inline-block; margin:5px;">
+<img src="./Kali-Dark-Definitive.png" style="display:inline-block; margin:5px;">
+<img src="./Kali-Dark-Definitive.png" style="display:inline-block; margin:5px;">
 <img src="./img/kali.png" style="display:inline-block; margin:5px;">
 <img src="./img/kali.png" style="display:inline-block; margin:5px;">
 <img src="./img/kali.png" style="display:inline-block; margin:5px;">
