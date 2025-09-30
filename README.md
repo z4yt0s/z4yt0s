@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## Skills
-<img src="./Kali-Dark-Definitive.png" style="display:inline-block; margin:5px;">
-<img src="./Kali-Dark-Definitive.png" style="display:inline-block; margin:5px;">
-<img src="./Kali-Dark-Definitive.png" style="display:inline-block; margin:5px;">
+<div style="display: flex; gap: 10px; align-items: center; width: 50px; height: auto;">
+  <img src="./Kali-Dark-Definitive.png" style="width: 80px;display:inline-block; margin:5px;">
+  <img src="./Kali-Dark-Definitive.png" style="width: 80px;display:inline-block; margin:5px;">
+  <img src="./Kali-Dark-Definitive.png" style="width: 80px;display:inline-block; margin:5px;">
+</div>
+
 <img src="./img/kali.png" style="display:inline-block; margin:5px;">
 <img src="./img/kali.png" style="display:inline-block; margin:5px;">
 <img src="./img/kali.png" style="display:inline-block; margin:5px;">
