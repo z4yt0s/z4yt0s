@@ -28,6 +28,17 @@
     <td align="center" colspan=2>
       <h3>Networking</h3>
     </td>
+    <tr>
+      <td align="center" colspan=2>
+        <img src="./img/cisco.png" style="width: 80px;display:inline-block; margin:5px;">
+        <img src="./img/mikrotik.png" style="width: 80px;display:inline-block; margin:5px;">
+        <img src="./img/opnsense.png" style="width: 80px;display:inline-block; margin:5px">
+        <img src="./img/wireguard.png" style="width: 80px;display:inline-block; margin:5px">
+        <img src="./img/openvpn.png" style="width: 80px;display:inline-block; margin:5px">
+        <img src="./img/wireshark.png" style="width: 80px;display:inline-block; margin:5px">
+        <img src="./img/wazuh.png" style="width: 80px;display:inline-block; margin:5px">
+      </td>
+    </tr>
   </tr>
 </table>
 
